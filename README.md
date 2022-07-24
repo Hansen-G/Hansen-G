@@ -3,6 +3,8 @@
 <!--
 **Hansen-G/Hansen-G** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+Hansen is a graduate student at Johns Hopkins University majoring in computer science and systems engineering.
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
