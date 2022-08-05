@@ -27,7 +27,7 @@
 <!-- [github-stats]: -->
 <div align='center'>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hansen-G&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hansen-G&show_icons=true&theme=dracula)](https://github.com/Hansen-G)
 
 <!-- contact info -->
 [![linked-in](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/hansen-guo/)
