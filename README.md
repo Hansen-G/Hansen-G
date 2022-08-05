@@ -1,4 +1,12 @@
-### <div align='center'><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px">Hello, my name is Hansen. Welcome to my profile! </div>
+### <div align='center'><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px">Hello, my name is Hansen Guo. Welcome to my profile! </div>
+
+<!-- [github-stats]: -->
+<div align='center'>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hansen-G&show_icons=true&theme=dracula)](https://github.com/Hansen-G)
+
+</div>
+
 
 ### Languages
 
@@ -24,15 +32,14 @@
 ![awss3]
 ![heroku]
 
-<!-- [github-stats]: -->
-<div align='center'>
+### Contact Me
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hansen-G&show_icons=true&theme=dracula)](https://github.com/Hansen-G)
-
-<!-- contact info -->
 [![linked-in](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/hansen-guo/)
 [![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/Hansen-G)
-</div>
+
+
+
+
 
 <!-- badges urls-->
 
