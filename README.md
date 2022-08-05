@@ -24,15 +24,25 @@
 ![awss3]
 ![heroku]
 
+
+
 <!-- [github-stats]: -->
 <div align='center'>
 
-<img height='150px' src="https://github-readme-stats.vercel.app/api?username=alex-pezzati&count_private=true&show_icons=true&hide_rank=false&bg_color=10,0d0221,241734,261447,2e2157,541388&hide_border=true&title_color=fe428e&text_color=a9fef7&icon_color=f8d847&border_color=fe428e&custom_title=GitHub%20Stats"><img height='150px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=alex-pezzati&layout=compact&langs_count=6&hide=mako,shell&bg_color=10,541388,2e2157,261447,241734,0d0221&hide_border=true&title_color=fe428e&text_color=a9fef7&icon_color=f8d847&border_color=fe428e">
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hansen-G&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- contact info -->
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+</a>
+
 [![linked-in](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/hansen-guo/)
 [![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/Hansen-G)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hansen-G&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
