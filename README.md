@@ -5,7 +5,13 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hansen-G&show_icons=true&theme=dracula)](https://github.com/Hansen-G)
 
+
+
+
 </div>
+
+### About Me
+My Name is Hansen, I' a [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Tiro+Gurmukhi&size=22&pause=1000&color=74A9CF&width=120&height=30&lines=Researcher;Developer;Consultant;Designer)](https://git.io/typing-svg)
 
 
 ### Languages
