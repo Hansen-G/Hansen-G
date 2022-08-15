@@ -16,7 +16,7 @@
 My Name is Hansen, I' a 
 </div>
 <div align='center'>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Tiro+Gurmukhi&size=22&pause=1000&color=74A9CF&width=120&lines=Researcher;Developer;Consultant;Designer" alt="Typing SVG" /></a>
+<a href="https://github.com/Hansen-G"><img src="https://readme-typing-svg.herokuapp.com?font=Tiro+Gurmukhi&size=22&pause=1000&color=74A9CF&width=120&lines=Researcher;Developer;Consultant;Designer" alt="Typing SVG" /></a>
 </div>
 
 ### Languages
