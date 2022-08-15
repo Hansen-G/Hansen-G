@@ -1,4 +1,8 @@
-### <div align='center'><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px">Hello, my name is Hansen Guo. Welcome to my profile! </div>
+### <div align='center'> My Name is Hansen Guo, I' a </div>
+<div align='center'>
+<img src="https://readme-typing-svg.herokuapp.com?font=Tiro+Gurmukhi&size=30&duration=2000&pause=1000&color=74A9CF&center=true&vCenter=true&width=600&height=60&lines=Researcher;Developer;Consultant;Designer" alt="Typing SVG" />
+  
+</div>
 
 <!-- [github-stats]: -->
 <div align='center'>
@@ -13,10 +17,7 @@
 
 ### About Me
 <div align='center'>
-My Name is Hansen, I' a 
-</div>
-<div align='center'>
-<img src="https://readme-typing-svg.herokuapp.com?font=Tiro+Gurmukhi&size=22&duration=2000&pause=1000&color=74A9CF&center=true&vCenter=true&width=120&lines=Researcher;Developer;Consultant;Designer" alt="Typing SVG" />
+
 </div>
 
 
