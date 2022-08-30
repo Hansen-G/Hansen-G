@@ -1,4 +1,4 @@
-### <div align='center'> My Name is Hansen Guo, I' a </div>
+### <div align='center'> My Name is Hansen Guo, I'm a </div>
 <div align='center'>
 <img src="https://readme-typing-svg.herokuapp.com?font=Tiro+Gurmukhi&size=30&duration=2000&pause=1000&color=74A9CF&center=true&vCenter=true&width=600&height=60&lines=Researcher;Developer;Consultant;Designer" alt="Typing SVG" />
   
